@@ -204,6 +204,14 @@ Adventure version 2 files can embed native compendium batches. Their entries are
 
 ---
 
+## 🎥 Gource Visualization
+
+De ontwikkelhistorie van dit project wordt automatisch gegenereerd door de [Gource workflow](.github/workflows/gource.yml) bij elke push — rendered via [nbprojekt/gource-action@v1.3.0](https://github.com/marketplace/actions/gource-action) in 1080p. Het video-artifact is 30 dagen beschikbaar via de workflow-run (Actions → gource-visualization).
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/beholden/main/gource.mp4" controls width="100%"></video>
+
+---
+
 ## Tech Stack
 
 - **Backend:** Node.js, Express, better-sqlite3, WebSocket (ws), JWT auth, sharp
