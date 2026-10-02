@@ -1,5 +1,11 @@
 # Beholden
 
+
+[![CI](https://github.com/itsdarklikehell/beholden/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/beholden/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/beholden)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 ### A TTRPG Campaign Tracker for DMs and Players
 
 ![TypeScript](https://img.shields.io/badge/Built%20With-TypeScript-3178C6?logo=typescript&logoColor=white)
